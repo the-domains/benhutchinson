@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[benhutchinson]]></title>
         <description><![CDATA[benhutchinson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/benhutchinson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 20:22:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 18:41:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/benhutchinson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hello World</p>]]></description>
-            <link>undefined06616298-15e2-4f80-97f5-701112941813/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7339b0d4-f487-4d4b-8436-c57e5a033498.jpg">]]></description>
+            <link>https://thegrid.ai/benhutchinson/06616298-15e2-4f80-97f5-701112941813/index.html</link>
             <guid isPermaLink="false">06616298-15e2-4f80-97f5-701112941813</guid>
-            <pubDate>Mon, 22 Feb 2016 20:22:10 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 18:41:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

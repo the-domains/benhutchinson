@@ -1,7 +1,7 @@
 name: benhutchinson
 favicon: null
 layout_spectrum: 0.6414723074994981
-typography_spectrum: 0.5685749396216124
+typography_spectrum: 0.95358
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#cdccc8'
+    - '#c59d2d'
+    - '#08173e'
+    - '#756d6a'
+    - '#30588a'
   brandStrength: 0.7132468644995242
   lightness: 0.22186688263900578
   saturation: 0.29769363603554666
